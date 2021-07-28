@@ -1,6 +1,6 @@
 <h1 align="center">Netflix Clone</h1>
 
-<p align="center">Clone da pagina inicial do Netflix usando HTML e CSS</p>
+<p align="center">Clone da pagina inicial do Netflix usando HTML, CSS e JavaScript</p>
 
 ### Autor
 ---
